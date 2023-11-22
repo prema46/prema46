@@ -1,4 +1,4 @@
-#  Hello, Welcome to gitHub Profile!!
+# Hello, Welcome to my GitHub page!!
 
 ## About Me
 <p>I’m Prema, A passionate QA Engineer, With a keen eye for detail and a commitment to quality, I excel in the field of software testing. <p>
