@@ -35,17 +35,17 @@
 			<ul>
 			<li><h4>Web Automation</h4></li>
 			<ul style="list-style-type:circle">
-				<li> Selenium Framework [Java]</li>
-				<li> Selenium Framework BDD [Java, Cucumber]</li>
+				<li> Developed Selenium Framework [Java]</li>
+				<li> Developed Selenium Framework BDD [Java, Cucumber]</li>
                 <li> Playwright [Javascript] </li>
-				<li> Playwright [Typescript]  </li>
-				<li> Playwright BDD [Javascript, Cucumber] </li>
+				<li> Developed Playwright [Typescript]  </li>
+				<li> Developed Playwright BDD [Javascript, Cucumber] </li>
 			</ul>
 		</ul>
 		<ul>
 			<li><h4>Mobile Automation</h4></li>
 			<ul style="list-style-type:circle">
-				<li> Appium Using Webdriver IO[Javascript]</li>
+				<li> Developed Mobile web and native app Automation [Appium, WebdrioverIO, Javascript]</li>
                <li>Coded UI [CUIT framework]</li>
               <li> UIAutomation</li>
 			</ul>	
