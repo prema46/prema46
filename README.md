@@ -11,6 +11,7 @@
  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-40C4FF?style=for-the-badge&logo=appium&logoColor=white)
   ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge&logo=rest-assured&logoColor=white)
+![SOUP UI](https://img.shields.io/badge/SoapUI-F7DF1E?style=for-the-badge&logo=SoapUI&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-34495E?style=for-the-badge&logo=playwright&logoColor=white)
@@ -53,7 +54,7 @@
 			<li><h4>API Automation</h4></li>	
 			<ul style="list-style-type:circle">
 				<li>  RestAssured API testing[Java, Postman]</li>
- 		        <li>  SopeUI API[Groovy]</li>
+ 		        <li>  SoapUI API[Groovy]</li>
 			</ul>	
 		</ul>
 <ul>
